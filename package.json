@@ -2,7 +2,7 @@
   "name": "project-markdown",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leonardoasd.github.io/Portafolio_oficial",
+  "homepage": "https://leonardoasd.github.io/project-markdown",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
